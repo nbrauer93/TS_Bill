@@ -3,7 +3,7 @@
 """
 Created on Mon Nov  5 15:42:45 2018
 
-Created by Cameron Homeyer (OU); Modifications by noahbrauer
+Created by Cameron Homeyer (OU); Additions and Modifications by noahbrauer
 """
 
 import matplotlib.pyplot as plt
