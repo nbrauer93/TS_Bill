@@ -3,7 +3,7 @@
 """
 Created on Mon Jan 13 10:03:51 2020
 
-@author: noahbrauer
+Source code: Randy Chase (@DopplerChase); Modifications/additions by noahbrauer
 """
 
 import h5py 
