@@ -71,10 +71,10 @@ theta = theta_squished.reshape(T,Z,I,J)
 #Define a constant latitude and take cross section along this; varies by longitude (-99.5 -93.5 )
 #constant latitude is 30degN
 
-longitude_index = 11
+latitude_index = 11
 
-theta_bill = theta[:,:,longitude_index,:]
-omega_bill = omega[:,:,longitude_index,:]
+theta_bill = theta[:,:,latitude_index,:]
+omega_bill = omega[:,:,latitude_index,:]
 
 
 #%%
